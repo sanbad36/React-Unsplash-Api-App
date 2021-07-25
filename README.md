@@ -1,3 +1,22 @@
+# React-Unsplash-Api-App
+
+I have created this app while I was learning the react. 
+In this app, I have used the Unsplash Api, and called it, to display the images on the screen, based on the search. 
+While creating this app, I have learned- 
+- Handing the states, in the react app. 
+- Call the external API.
+- Http methods
+- passing props between the child and parent components. 
+- Both types of Components. Class and Functional components. 
+
+
+## Reference Image 1 
+![image](https://user-images.githubusercontent.com/32664738/126901474-6ee72ad7-0755-49c9-8c8e-9ca4f4878a28.png)
+
+## Reference Image 2 
+![image](https://user-images.githubusercontent.com/32664738/126901590-b3dacb3f-0a43-4cd6-bd0f-024d7f4b7f0c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
